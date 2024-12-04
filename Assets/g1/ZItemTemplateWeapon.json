@@ -43,7 +43,7 @@
             "typename": "PRPOpCode.Float32"
         },
         {
-            "name": "property_CC",
+            "name": "DamageValue",
             "offset": 204,
             "typename": "PRPOpCode.Float32"
         },
