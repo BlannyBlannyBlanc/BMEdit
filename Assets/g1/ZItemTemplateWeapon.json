@@ -58,7 +58,7 @@
             "typename": "PRPOpCode.Float32"
         },
         {
-            "name": "property_D8",
+            "name": "RateofFire",
             "offset": 216,
             "typename": "PRPOpCode.Float32"
         },
